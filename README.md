@@ -44,5 +44,5 @@ https://manjaro.org/download/#Community
 ### Old Releases
 https://osdn.net/projects/manjaro-archive/
 
-# Gentoo (DIY) |+=--
+# Gentoo (DIY)
 https://www.gentoo.org/downloads/
