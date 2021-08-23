@@ -1,7 +1,3 @@
-# Try Linux
-
-
-
 # Ubuntu
 https://ubuntu.com/download/desktop
 ### Old Releases
