@@ -1,0 +1,10 @@
+NOTE: Debian is Ubuntu's base, so they are pretty similar.
+NOTE: No Derivatives such as Kali Linux or Ubuntu will be here! For Ubuntu and its derivatives, go to ubuntu.txt.
+NOTE: Debian GNU/Hurd will not be shown here, as it is not GNU/Linux.
+WARNING: Going into Debian's FTP servers alone can make you pretty confused what to pick, but here, we've done that for you!
+
+-| Bullseye (Latest as of late August 2021) |-
+https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-11.0.0-amd64-DVD-1.iso
+
+-| Sid (Unstable) |-
+TBD
