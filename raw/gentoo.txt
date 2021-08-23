@@ -3,4 +3,5 @@ WARNING: Gentoo is a Do It Yourself Linux Distribution! Use it if you have spare
 -| Gentoo Linux |-
 https://www.gentoo.org/downloads/
 -| Sabayon |-
-TBD
+WARNING: Sabayon has not been updated since 2019! Use at your own risk!
+https://www.sabayon.org/latest/
