@@ -2,5 +2,3 @@ WARNING: Gentoo is a Do It Yourself Linux Distribution! Use it if you have spare
 
 -| Gentoo Linux |-
 https://www.gentoo.org/downloads/
--| Sabayon |-
-TBD
