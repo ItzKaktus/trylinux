@@ -18,12 +18,12 @@ https://ubuntu-mate.org/download/
 https://linuxmint.com/download.php
 ## elementary os
 https://elementary.io/ has an optional donate option, just choose
-## Pop!_OS
-https://pop.system76.com/
 
 ![Elementary Custom Donate](assets/elementarycustomdonate.png)
 
 then insert 0
+## Pop!_OS
+https://pop.system76.com/
 
 # Fedora
 ## Workstation 
