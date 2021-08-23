@@ -1,0 +1,8 @@
+WARNING: Arch is a Do It Yourself Linux Distribution! Use it if you have spare time!
+
+-| Arch Linux |-
+https://archlinux.org/download/
+-| Manjaro (Non-DIY) |-
+https://manjaro.org/download/
+ | Community Releases (Such as i3 and AwesomeWM releases) |
+ https://manjaro.org/download/#Community

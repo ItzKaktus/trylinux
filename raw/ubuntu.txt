@@ -1,0 +1,19 @@
+-| Ubuntu (Can be Customized to be Windows-Like, if you have some spare time) |-
+https://ubuntu.com/download/desktop
+-| Kubuntu (Windows-Like) |- 
+https://kubuntu.org/getkubuntu/
+-| Lubuntu (Kind of Windows-Like) |-
+https://lubuntu.me/downloads/
+-| Xubuntu (Very Customizable, Can be Customized to be Windows-Like) |- 
+https://xubuntu.org/download/
+-| Ubuntu Budgie (Can be Customized to be Windows-Like) |- 
+https://ubuntubudgie.org/downloads/
+-| Ubuntu MATE (Can be Customized to be Windows-Like) |- 
+https://ubuntu-mate.org/download/
+-| Ubuntu Budgie (Windows-Like) |- 
+https://linuxmint.com/download.php
+-| elementary os (mac OS-Like) |-
+https://elementary.io/
+They have an (optional) donate option, just choose custom then insert 0
+-| Pop!_OS (mac OS-Like, Can be Customized to be Windows-Like, if you have some spare time) |-
+https://pop.system76.com/

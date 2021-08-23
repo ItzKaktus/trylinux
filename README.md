@@ -21,8 +21,9 @@ https://ubuntu-mate.org/download/
 ## Linux Mint
 https://linuxmint.com/download.php
 ## elementary os
-https://elementary.io/ has an optional donate option, just choose ![Elementary Custom Donate](assets/lementarycustomdonate.png)
- then insert 0
+https://elementary.io/ has an optional donate option, just choose
+![Elementary Custom Donate](assets/elementarycustomdonate.png)
+then insert 0
 
 # Fedora
 ## Workstation 
