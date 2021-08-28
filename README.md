@@ -35,7 +35,9 @@ https://getfedora.org/en/server/download/
 
 # Arch Linux (DIY)
 https://archlinux.org/download/
-## Manjaro
+## Artix Linux (DIY)
+https://artixlinux.org/download.php
+## Manjaro (Non-DIY)
 https://manjaro.org/download/
 ### Other Releases
 https://manjaro.org/download/#Community
