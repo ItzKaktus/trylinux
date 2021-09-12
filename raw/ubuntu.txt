@@ -10,7 +10,7 @@ https://xubuntu.org/download/
 https://ubuntubudgie.org/downloads/
 -| Ubuntu MATE (Can be Customized to be Windows-Like) |- 
 https://ubuntu-mate.org/download/
--| Ubuntu Budgie (Windows-Like) |- 
+-| Linux Mint (Windows-Like) |- 
 https://linuxmint.com/download.php
 -| elementary os (mac OS-Like) |-
 https://elementary.io/
