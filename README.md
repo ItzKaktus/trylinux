@@ -1,28 +1,29 @@
-# Ubuntu
+# Debian
+https://www.debian.org/distrib/
+## Ubuntu
 https://ubuntu.com/download/desktop
-### Old Releases
+#### Old Releases
 http://releases.ubuntu.com/releases/
 http://old-releases.ubuntu.com/releases/
-https://winworldpc.com/product/ubuntu
-## Kubuntu 
+### Kubuntu 
 https://kubuntu.org/getkubuntu/
-## Lubuntu
+### Lubuntu
 https://lubuntu.me/downloads/
-## Xubuntu
+### Xubuntu
 https://xubuntu.org/download/
-## Ubuntu Budgie
+### Ubuntu Budgie
 https://ubuntubudgie.org/downloads/
-## Ubuntu MATE
+### Ubuntu MATE
 https://ubuntu-mate.org/download/
-## Linux Mint
+### Linux Mint
 https://linuxmint.com/download.php
-## elementary os
+### elementary os
 https://elementary.io/ has an optional donate option, just choose
 
 ![Elementary Custom Donate](assets/elementarycustomdonate.png)
 
 then insert 0
-## Pop!_OS
+### Pop!_OS
 https://pop.system76.com/
 
 # Fedora
