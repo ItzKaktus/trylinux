@@ -28,10 +28,14 @@ https://pop.system76.com/
 # Fedora
 ## Workstation 
 https://getfedora.org/en/workstation/download/
+### Rawhide
+https://fedoraproject.org/wiki/Releases/Rawhide#Using_Rawhide
 ## IoT (Internet of Things) ## 
 https://getfedora.org/en/iot/download/
 ## Server
 https://getfedora.org/en/server/download/
+## Silverblue
+https://silverblue.fedoraproject.org/download
 
 # Arch Linux (DIY)
 https://archlinux.org/download/
