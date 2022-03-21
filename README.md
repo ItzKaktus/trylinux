@@ -1,10 +1,11 @@
-## Non-DIY
-### Debian
+# Try Linux
+# Non-DIY
+## Debian
 https://www.debian.org/distrib/
-#### Ubuntu
+### Ubuntu
 https://ubuntu.com/download/desktop
 ##### Old Releases
-http://releases.ubuntu.com/releases/
+http://releases.ubuntu.com/releases/<br>
 http://old-releases.ubuntu.com/releases/
 #### Kubuntu 
 https://kubuntu.org/getkubuntu/
@@ -19,10 +20,8 @@ https://ubuntu-mate.org/download/
 #### Linux Mint
 https://linuxmint.com/download.php
 #### elementary os
-https://elementary.io/ has an optional donate option, just choose
-
-![Elementary Custom Donate](assets/elementarycustomdonate.png)
-
+https://elementary.io/ has an optional donate option, just choose<br>
+![Elementary Custom Donate](assets/elementarycustomdonate.png)<br>
 then insert 0
 #### Pop!_OS
 https://pop.system76.com/
@@ -79,7 +78,7 @@ https://www.gentoo.org/downloads/
 
 ## Slackware (has TUI installer)
 http://www.slackware.com/getslack/
-### Slackware64-current
-https://slackware.uk/people/alien-current-iso/slackware64-current-iso/
-### Slackware-current
+### Slackware Current
 https://slackware.uk/people/alien-current-iso/slackware-current-iso/
+#### x86_64
+https://slackware.uk/people/alien-current-iso/slackware64-current-iso/
