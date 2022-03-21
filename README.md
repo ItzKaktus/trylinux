@@ -1,53 +1,85 @@
-# Debian
+## Non-DIY
+### Debian
 https://www.debian.org/distrib/
-## Ubuntu
+#### Ubuntu
 https://ubuntu.com/download/desktop
-#### Old Releases
+##### Old Releases
 http://releases.ubuntu.com/releases/
 http://old-releases.ubuntu.com/releases/
-### Kubuntu 
+#### Kubuntu 
 https://kubuntu.org/getkubuntu/
-### Lubuntu
+#### Lubuntu
 https://lubuntu.me/downloads/
-### Xubuntu
+#### Xubuntu
 https://xubuntu.org/download/
-### Ubuntu Budgie
+#### Ubuntu Budgie
 https://ubuntubudgie.org/downloads/
-### Ubuntu MATE
+#### Ubuntu MATE
 https://ubuntu-mate.org/download/
-### Linux Mint
+#### Linux Mint
 https://linuxmint.com/download.php
-### elementary os
+#### elementary os
 https://elementary.io/ has an optional donate option, just choose
 
 ![Elementary Custom Donate](assets/elementarycustomdonate.png)
 
 then insert 0
-### Pop!_OS
+#### Pop!_OS
 https://pop.system76.com/
 
-# Fedora
-## Workstation 
+## Fedora
+### Workstation 
 https://getfedora.org/en/workstation/download/
-### Rawhide
+#### Rawhide
 https://fedoraproject.org/wiki/Releases/Rawhide#Using_Rawhide
-## IoT (Internet of Things) ## 
+### IoT (Internet of Things) ## 
 https://getfedora.org/en/iot/download/
-## Server
+### Server
 https://getfedora.org/en/server/download/
-## Silverblue
+### Silverblue
 https://silverblue.fedoraproject.org/download
 
-# Arch Linux (DIY)
-https://archlinux.org/download/
-## Artix Linux (DIY, has a version with an installer)
-https://artixlinux.org/download.php
-## Manjaro (Non-DIY)
+## Red Hat Linux
+### Newer (Fedora Based, Paid)
+https://www.redhat.com/technologies/linux-platforms/enterprise-linux
+### Older (Independent, Free)
+ftp://archive.download.redhat.com/pub/redhat/linux/
+
+## Manjaro (Arch-based)
 https://manjaro.org/download/
-### Other Releases
+### Community Releases
 https://manjaro.org/download/#Community
 ### Old Releases
 https://osdn.net/projects/manjaro-archive/
 
-# Gentoo (DIY)
+## openSUSE
+### Tumbleweed
+https://get.opensuse.org/tumbleweed/
+### Leap
+https://get.opensuse.org/leap/
+
+## SUSE (Paid)
+### Enterprise Desktop
+https://www.suse.com/download/sled
+### Enterprise Server
+https://www.suse.com/download/sles
+
+## Redcore (Gentoo-based)
+https://redcorelinux.org/download
+
+# DIY
+## Arch Linux (has commandline installer)
+https://archlinux.org/download/
+
+## Artix Linux (Arch-based, has versions with installer)
+https://artixlinux.org/download.php
+
+## Gentoo
 https://www.gentoo.org/downloads/
+
+## Slackware (has TUI installer)
+http://www.slackware.com/getslack/
+### Slackware64-current
+https://slackware.uk/people/alien-current-iso/slackware64-current-iso/
+### Slackware-current
+https://slackware.uk/people/alien-current-iso/slackware-current-iso/
